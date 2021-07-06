@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics on Xiaoqin Zhang</title>
+    <link>https://xqzhang-moji.github.io/ananke/tags/data-analytics/</link>
+    <description>Recent content in Data Analytics on Xiaoqin Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Apr 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://xqzhang-moji.github.io/ananke/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Can You Tell from 3 Million Traffic Accident Records in US</title>
+      <link>https://xqzhang-moji.github.io/ananke/post/project-1/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://xqzhang-moji.github.io/ananke/post/project-1/</guid>
+      <description>On average, there are 6 million car accidents in the U.S. every year. That&amp;rsquo;s roughly 16,438 per day. Of these crashes, 22,471 caused only property damage. Over 37,000 Americans die in automobile crashes per year. Where do the majority of accidents happen? How the weather affect the accident severity? Which cities have the most accident occurrences?
+This project is to use EDA (Exploratory Data Analysis) and data visualization to analyze around 3 million traffic accident records.</description>
+    </item>
+    
+    <item>
+      <title>Kaggle Competition: Titanic, Who Will Survive?</title>
+      <link>https://xqzhang-moji.github.io/ananke/post/project-4/</link>
+      <pubDate>Mon, 12 Oct 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://xqzhang-moji.github.io/ananke/post/project-4/</guid>
+      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+    </item>
+    
+  </channel>
+</rss>
